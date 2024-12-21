@@ -23,23 +23,3 @@ Welcome to my GitHub! I'm a passionate **Business Analytics** student currently 
 <img src="https://github.com/user-attachments/assets/a4920647-6ac7-4c42-8555-e7db63b00463" alt="tool12" width="100" height="100" style="border-radius: 50%;">
 
 
-## 📂 Projects
-
-<!-- Use HTML to create a button-like appearance -->
-<a href="https://github.com/shrishankar-desai/Pesticide" style="display: inline-block; width: 200px; padding: 20px; margin: 10px 0; font-size: 16px; font-weight: bold; text-align: center; background-color: #000000; border: 1px solid #ddd; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-decoration: none; color: black; text-align: center;">
-    1. Pesticide Project
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
