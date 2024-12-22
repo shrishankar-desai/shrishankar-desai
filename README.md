@@ -1,6 +1,9 @@
-# 👋, Its Shrishankar Shripadarao Desai
+## Welcome to My GitHub!
+I am a skilled data professional with expertise in Python programming, machine learning, and deep learning techniques. With a strong grasp of big data technologies like Hadoop, I specialize in statistical analysis and data mining to uncover actionable insights. My proficiency in data warehousing and business intelligence enables me to design scalable, impactful solutions that empower strategic decision-making.
 
-Welcome to my GitHub! I'm a passionate **Business Analytics** student currently pursuing my master's at the **University of Texas at Arlington (UTA)**. With over 2.3 years of experience in IT at TCS, I bring a blend of technical skills and analytical thinking to every project.
+With extensive experience in forecasting, web and social analytics, and crafting compelling business cases, I thrive on driving organizational success through innovative, data-driven approaches. Passionate about transforming data into value, I tackle complex challenges across diverse industries with creativity and precision.
+
+Explore my projects and feel free to connect—I’m always open to collaboration and learning opportunities!
 
 ## 🌐 Connect with Me
 
