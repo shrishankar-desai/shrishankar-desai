@@ -32,5 +32,7 @@ Explore my projects and feel free to connect—I’m always open to collaboratio
 - [Linkedin-Mining](https://github.com/shrishankar-desai/Linkedin-Mining)
 - [Pesticide](https://github.com/shrishankar-desai/Pesticide)
 - [Metacritic-Movie-Data-Analysis](https://github.com/shrishankar-desai/Metacritic-Movie-Data-Analysis)
+- [Startup-Success-Forecasting](https://github.com/shrishankar-desai/Startup-Success-Forecasting)
+- [The-PepsiCo-Company-Investment-Recommendation](https://github.com/shrishankar-desai/The-PepsiCo-Company-Investment-Recommendation)
 
 
