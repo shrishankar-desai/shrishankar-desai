@@ -5,6 +5,16 @@ With extensive experience in forecasting, web and social analytics, and crafting
 
 Explore my projects and feel free to connect—I’m always open to collaboration and learning opportunities!
 
+## 🗂️ My Projects
+
+- [2024-FLAME-AI-Challenge](https://github.com/shrishankar-desai/1._2024-FLAME-AI-Challenge)
+- [Rocket-Recommender-System](https://github.com/shrishankar-desai/2.Rocket-Recommender-System)
+- [Linkedin-Mining](https://github.com/shrishankar-desai/Linkedin-Mining)
+- [Pesticide](https://github.com/shrishankar-desai/Pesticide)
+- [Startup-Success-Forecasting](https://github.com/shrishankar-desai/Startup-Success-Forecasting)
+- [Metacritic-Movie-Data-Analysis](https://github.com/shrishankar-desai/Metacritic-Movie-Data-Analysis)
+- [The-PepsiCo-Company-Investment-Recommendation](https://github.com/shrishankar-desai/The-PepsiCo-Company-Investment-Recommendation)
+
 ## 🌐 Connect with Me
 
 - **LinkedIn**: [Shrishankar Desai](https://www.linkedin.com/in/shrishankar-b9ab46293/)
@@ -25,14 +35,6 @@ Explore my projects and feel free to connect—I’m always open to collaboratio
 <img src="https://github.com/user-attachments/assets/ff7ec2cd-37ba-4a9e-8054-11751e8e522d" alt="tool9" width="100" height="100" style="border-radius: 30%;">
 <img src="https://github.com/user-attachments/assets/a4920647-6ac7-4c42-8555-e7db63b00463" alt="tool12" width="100" height="100" style="border-radius: 30%;">
 
-## 🗂️ My Projects
 
-- [2024-FLAME-AI-Challenge](https://github.com/shrishankar-desai/1._2024-FLAME-AI-Challenge)
-- [Rocket-Recommender-System](https://github.com/shrishankar-desai/2.Rocket-Recommender-System)
-- [Linkedin-Mining](https://github.com/shrishankar-desai/Linkedin-Mining)
-- [Pesticide](https://github.com/shrishankar-desai/Pesticide)
-- [Startup-Success-Forecasting](https://github.com/shrishankar-desai/Startup-Success-Forecasting)
-- [Metacritic-Movie-Data-Analysis](https://github.com/shrishankar-desai/Metacritic-Movie-Data-Analysis)
-- [The-PepsiCo-Company-Investment-Recommendation](https://github.com/shrishankar-desai/The-PepsiCo-Company-Investment-Recommendation)
 
 
