@@ -6,7 +6,7 @@ With extensive experience in forecasting, web and social analytics, and crafting
 Explore my projects and feel free to connect—I’m always open to collaboration and learning opportunities!
 
 ## 🗂️ My Projects
-
+- [financial-document-intelligence-rag](https://github.com/shrishankar-desai/financial-document-intelligence-rag)
 - [2024-FLAME-AI-Challenge](https://github.com/shrishankar-desai/1._2024-FLAME-AI-Challenge)
 - [Rocket-Recommender-System](https://github.com/shrishankar-desai/2.Rocket-Recommender-System)
 - [Linkedin-Mining](https://github.com/shrishankar-desai/Linkedin-Mining)
